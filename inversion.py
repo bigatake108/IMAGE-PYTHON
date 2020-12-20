@@ -1,6 +1,8 @@
 import numpy as np
 import cv2
 
+# Python program that inverses the color of an image
+
 image = cv2.imread('oilwagon.jpg', 0)
 
 def inversion(img):
