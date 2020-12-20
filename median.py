@@ -1,6 +1,8 @@
 import numpy as np
 import cv2
 
+# Python Programm, welches einen 3 x 3 Median-Filter auf ein Bild anwendet.
+
 image2 = cv2.imread('oilwagon_snp.jpg', 0)
 
 def median(img):
