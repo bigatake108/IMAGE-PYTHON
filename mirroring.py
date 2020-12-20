@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-# Python Programm, welches ein Bild horizontal spiegelt.-
+# Python Programm, welches ein Bild horizontal spiegelt.
 
 image = cv2.imread('oilwagon.jpg', 0)
 
